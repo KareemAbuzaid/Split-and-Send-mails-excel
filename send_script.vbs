@@ -6,8 +6,6 @@ Sub send()
   'sent or just displayed.The file names should not include .xlsx as this       '
   'is added by in the method. user emails should be                             '
   'separated by a `;`.                                                          '
-  'Anil Coelho <anil.coelho@siemens.com>                                        '
-  'Kareem Abuzaid <kareem.abuzaid.ext@siemens.com>                              '
   '''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
   'variable to be used for looping over rows
